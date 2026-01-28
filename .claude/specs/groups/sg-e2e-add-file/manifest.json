@@ -4,7 +4,7 @@
   "description": "Minimal spec for E2E testing - creates a generated TypeScript file",
   "spec_type": "task-spec",
   "review_state": "APPROVED",
-  "work_state": "READY_TO_MERGE",
+  "work_state": "PLAN_READY",
   "created_at": "2026-01-25T12:00:00Z",
   "updated_at": "2026-01-25T12:00:00Z"
 }
